@@ -1,8 +1,17 @@
-# LCOM Project
+# feup-lcom
+Code developed for LCOM, developed by Filipe Campos and [Francisco Cerqueira](https://github.com/xico2001pt))
 
-LCOM Project for group T7G01.
+## Information
+**Date**: 2nd Year, 1nd Semester (2020/2021)
 
-Group members:
+**Course name**: Computer Laboratory / Laboratório de Computadores
 
-1. Filipe Campos (up201905609@fe.up.pt)
-2. Francisco Cerqueira (up201905337@fe.up.pt)
+**Course link**: [LCOM](https://sigarra.up.pt/feup/pt/ucurr_geral.ficha_uc_view?pv_ocorrencia_id=459473)
+
+**Final grade**: 20
+
+## Classification
+
+| Test 1 | Test 2 | Project | Final |
+|--------|--------|---------|-------|
+| 20     | 20     | 19.01   | 20    |
