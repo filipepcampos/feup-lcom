@@ -1,0 +1,4 @@
+get infobefore | phys:0x8f000  virt:0xefb8c000   PB2BASE:0x8000  PB2OFF:0xf000
+after | phys:0x8f000  virt:0xefb8c000   PB2BASE:0x8000  PB2OFF:0xf000
+h_res: 1024   v_res: 768   bits_per_pixel: 8
+mapped VRAM base:0xe0000000 size:786432 limit:0xe00c0000
