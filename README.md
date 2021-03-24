@@ -14,4 +14,4 @@ Code developed for LCOM, developed by Filipe Campos and [Francisco Cerqueira](ht
 
 | Test 1 | Test 2 | Project | Final |
 |--------|--------|---------|-------|
-| 20     | 20     | 19.01   | 20    |
+| 20     | 20     | 19.49   | 20    |
